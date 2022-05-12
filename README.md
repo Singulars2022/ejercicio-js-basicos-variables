@@ -16,3 +16,6 @@ La solución de los ejercicios con comentarios se puede ver en la rama "solució
 
 También podéis ver la solución de [Almudena Raya](https://github.com/rayaalmudena/ejercicio-js-basicos-variables) 
 
+Solución 12 de Mayo de 2022 por [Fabián Taranto](https://github.com/fataranto/ejercicio-js-basicos-variables
+)
+
